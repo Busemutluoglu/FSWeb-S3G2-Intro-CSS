@@ -18,8 +18,10 @@
 .container p {
   margin-left: 30%;
   display: inline-block;
+
   font-family: "Roboto Mono";
 }
+
 .container header nav a {
   border: 1px solid lightgray;
   margin: 20px 100px;
@@ -95,7 +97,7 @@ span {
   margin: 0 135 px;
   font-family: "Roboto Mono";
   text-align: center;
-  margin-left: 490px;
+  margin-left: 230px;
   width: 1000px;
   text-align: center;
 }
